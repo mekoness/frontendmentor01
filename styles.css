@@ -92,7 +92,7 @@ p {
     color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 800px) {
+@media (min-width: 769px) {
     .container {
         width: 600px;
         display: flex;
